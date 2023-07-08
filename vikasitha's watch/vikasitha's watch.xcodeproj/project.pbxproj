@@ -1,0 +1,1149 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6EED8B5C289C0007006DA981 /* vikasitha_s_watchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B5B289C0007006DA981 /* vikasitha_s_watchApp.swift */; };
+		6EED8B5E289C0007006DA981 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B5D289C0007006DA981 /* ContentView.swift */; };
+		6EED8B60289C0009006DA981 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EED8B5F289C0009006DA981 /* Assets.xcassets */; };
+		6EED8B63289C0009006DA981 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EED8B62289C0009006DA981 /* Preview Assets.xcassets */; };
+		6EED8B6D289C0009006DA981 /* vikasitha_s_watchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B6C289C0009006DA981 /* vikasitha_s_watchTests.swift */; };
+		6EED8B77289C0009006DA981 /* vikasitha_s_watchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B76289C0009006DA981 /* vikasitha_s_watchUITests.swift */; };
+		6EED8B79289C0009006DA981 /* vikasitha_s_watchUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B78289C0009006DA981 /* vikasitha_s_watchUITestsLaunchTests.swift */; };
+		6EED8B7D289C0009006DA981 /* vikasitha's watch WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 6EED8B7C289C0009006DA981 /* vikasitha's watch WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		6EED8B82289C000A006DA981 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EED8B81289C000A006DA981 /* Assets.xcassets */; };
+		6EED8B88289C000A006DA981 /* vikasitha's watch WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 6EED8B87289C000A006DA981 /* vikasitha's watch WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		6EED8B8D289C000A006DA981 /* vikasitha_s_watchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B8C289C000A006DA981 /* vikasitha_s_watchApp.swift */; };
+		6EED8B8F289C000A006DA981 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B8E289C000A006DA981 /* ContentView.swift */; };
+		6EED8B91289C000A006DA981 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B90289C000A006DA981 /* NotificationController.swift */; };
+		6EED8B93289C000A006DA981 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B92289C000A006DA981 /* NotificationView.swift */; };
+		6EED8B95289C000A006DA981 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8B94289C000A006DA981 /* ComplicationController.swift */; };
+		6EED8B97289C000B006DA981 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EED8B96289C000B006DA981 /* Assets.xcassets */; };
+		6EED8B9A289C000B006DA981 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EED8B99289C000B006DA981 /* Preview Assets.xcassets */; };
+		6EED8BA6289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8BA5289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppTests.swift */; };
+		6EED8BB0289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8BAF289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITests.swift */; };
+		6EED8BB2289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EED8BB1289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6EED8B69289C0009006DA981 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EED8B50289C0006006DA981 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EED8B57289C0007006DA981;
+			remoteInfo = "vikasitha's watch";
+		};
+		6EED8B73289C0009006DA981 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EED8B50289C0006006DA981 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EED8B57289C0007006DA981;
+			remoteInfo = "vikasitha's watch";
+		};
+		6EED8B7E289C0009006DA981 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EED8B50289C0006006DA981 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EED8B7B289C0009006DA981;
+			remoteInfo = "vikasitha's watch WatchKit App";
+		};
+		6EED8B89289C000A006DA981 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EED8B50289C0006006DA981 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EED8B86289C000A006DA981;
+			remoteInfo = "vikasitha's watch WatchKit Extension";
+		};
+		6EED8BA2289C000B006DA981 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EED8B50289C0006006DA981 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EED8B86289C000A006DA981;
+			remoteInfo = "vikasitha's watch WatchKit Extension";
+		};
+		6EED8BAC289C000B006DA981 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EED8B50289C0006006DA981 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EED8B7B289C0009006DA981;
+			remoteInfo = "vikasitha's watch WatchKit App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6EED8BB8289C000B006DA981 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				6EED8B88289C000A006DA981 /* vikasitha's watch WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8BBC289C000B006DA981 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				6EED8B7D289C0009006DA981 /* vikasitha's watch WatchKit App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		6EED8B58289C0007006DA981 /* vikasitha's watch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "vikasitha's watch.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8B5B289C0007006DA981 /* vikasitha_s_watchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watchApp.swift; sourceTree = "<group>"; };
+		6EED8B5D289C0007006DA981 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6EED8B5F289C0009006DA981 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6EED8B62289C0009006DA981 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6EED8B68289C0009006DA981 /* vikasitha's watchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "vikasitha's watchTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8B6C289C0009006DA981 /* vikasitha_s_watchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watchTests.swift; sourceTree = "<group>"; };
+		6EED8B72289C0009006DA981 /* vikasitha's watchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "vikasitha's watchUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8B76289C0009006DA981 /* vikasitha_s_watchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watchUITests.swift; sourceTree = "<group>"; };
+		6EED8B78289C0009006DA981 /* vikasitha_s_watchUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watchUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6EED8B7C289C0009006DA981 /* vikasitha's watch WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "vikasitha's watch WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8B81289C000A006DA981 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6EED8B87289C000A006DA981 /* vikasitha's watch WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "vikasitha's watch WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8B8C289C000A006DA981 /* vikasitha_s_watchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watchApp.swift; sourceTree = "<group>"; };
+		6EED8B8E289C000A006DA981 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6EED8B90289C000A006DA981 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		6EED8B92289C000A006DA981 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		6EED8B94289C000A006DA981 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
+		6EED8B96289C000B006DA981 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6EED8B99289C000B006DA981 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6EED8B9B289C000B006DA981 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6EED8B9C289C000B006DA981 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		6EED8BA1289C000B006DA981 /* vikasitha's watch WatchKit AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "vikasitha's watch WatchKit AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8BA5289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watch_WatchKit_AppTests.swift; sourceTree = "<group>"; };
+		6EED8BAB289C000B006DA981 /* vikasitha's watch WatchKit AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "vikasitha's watch WatchKit AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EED8BAF289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watch_WatchKit_AppUITests.swift; sourceTree = "<group>"; };
+		6EED8BB1289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vikasitha_s_watch_WatchKit_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6EED8B55289C0007006DA981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B65289C0009006DA981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B6F289C0009006DA981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B84289C000A006DA981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B9E289C000B006DA981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8BA8289C000B006DA981 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6EED8B4F289C0006006DA981 = {
+			isa = PBXGroup;
+			children = (
+				6EED8B5A289C0007006DA981 /* vikasitha's watch */,
+				6EED8B6B289C0009006DA981 /* vikasitha's watchTests */,
+				6EED8B75289C0009006DA981 /* vikasitha's watchUITests */,
+				6EED8B80289C0009006DA981 /* vikasitha's watch WatchKit App */,
+				6EED8B8B289C000A006DA981 /* vikasitha's watch WatchKit Extension */,
+				6EED8BA4289C000B006DA981 /* vikasitha's watch WatchKit AppTests */,
+				6EED8BAE289C000B006DA981 /* vikasitha's watch WatchKit AppUITests */,
+				6EED8B59289C0007006DA981 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6EED8B59289C0007006DA981 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B58289C0007006DA981 /* vikasitha's watch.app */,
+				6EED8B68289C0009006DA981 /* vikasitha's watchTests.xctest */,
+				6EED8B72289C0009006DA981 /* vikasitha's watchUITests.xctest */,
+				6EED8B7C289C0009006DA981 /* vikasitha's watch WatchKit App.app */,
+				6EED8B87289C000A006DA981 /* vikasitha's watch WatchKit Extension.appex */,
+				6EED8BA1289C000B006DA981 /* vikasitha's watch WatchKit AppTests.xctest */,
+				6EED8BAB289C000B006DA981 /* vikasitha's watch WatchKit AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6EED8B5A289C0007006DA981 /* vikasitha's watch */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B5B289C0007006DA981 /* vikasitha_s_watchApp.swift */,
+				6EED8B5D289C0007006DA981 /* ContentView.swift */,
+				6EED8B5F289C0009006DA981 /* Assets.xcassets */,
+				6EED8B61289C0009006DA981 /* Preview Content */,
+			);
+			path = "vikasitha's watch";
+			sourceTree = "<group>";
+		};
+		6EED8B61289C0009006DA981 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B62289C0009006DA981 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6EED8B6B289C0009006DA981 /* vikasitha's watchTests */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B6C289C0009006DA981 /* vikasitha_s_watchTests.swift */,
+			);
+			path = "vikasitha's watchTests";
+			sourceTree = "<group>";
+		};
+		6EED8B75289C0009006DA981 /* vikasitha's watchUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B76289C0009006DA981 /* vikasitha_s_watchUITests.swift */,
+				6EED8B78289C0009006DA981 /* vikasitha_s_watchUITestsLaunchTests.swift */,
+			);
+			path = "vikasitha's watchUITests";
+			sourceTree = "<group>";
+		};
+		6EED8B80289C0009006DA981 /* vikasitha's watch WatchKit App */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B81289C000A006DA981 /* Assets.xcassets */,
+			);
+			path = "vikasitha's watch WatchKit App";
+			sourceTree = "<group>";
+		};
+		6EED8B8B289C000A006DA981 /* vikasitha's watch WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B8C289C000A006DA981 /* vikasitha_s_watchApp.swift */,
+				6EED8B8E289C000A006DA981 /* ContentView.swift */,
+				6EED8B90289C000A006DA981 /* NotificationController.swift */,
+				6EED8B92289C000A006DA981 /* NotificationView.swift */,
+				6EED8B94289C000A006DA981 /* ComplicationController.swift */,
+				6EED8B96289C000B006DA981 /* Assets.xcassets */,
+				6EED8B9B289C000B006DA981 /* Info.plist */,
+				6EED8B9C289C000B006DA981 /* PushNotificationPayload.apns */,
+				6EED8B98289C000B006DA981 /* Preview Content */,
+			);
+			path = "vikasitha's watch WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		6EED8B98289C000B006DA981 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8B99289C000B006DA981 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6EED8BA4289C000B006DA981 /* vikasitha's watch WatchKit AppTests */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8BA5289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppTests.swift */,
+			);
+			path = "vikasitha's watch WatchKit AppTests";
+			sourceTree = "<group>";
+		};
+		6EED8BAE289C000B006DA981 /* vikasitha's watch WatchKit AppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6EED8BAF289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITests.swift */,
+				6EED8BB1289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITestsLaunchTests.swift */,
+			);
+			path = "vikasitha's watch WatchKit AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6EED8B57289C0007006DA981 /* vikasitha's watch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BBD289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch" */;
+			buildPhases = (
+				6EED8B54289C0007006DA981 /* Sources */,
+				6EED8B55289C0007006DA981 /* Frameworks */,
+				6EED8B56289C0007006DA981 /* Resources */,
+				6EED8BBC289C000B006DA981 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EED8B7F289C0009006DA981 /* PBXTargetDependency */,
+			);
+			name = "vikasitha's watch";
+			productName = "vikasitha's watch";
+			productReference = 6EED8B58289C0007006DA981 /* vikasitha's watch.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6EED8B67289C0009006DA981 /* vikasitha's watchTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BC0289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watchTests" */;
+			buildPhases = (
+				6EED8B64289C0009006DA981 /* Sources */,
+				6EED8B65289C0009006DA981 /* Frameworks */,
+				6EED8B66289C0009006DA981 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EED8B6A289C0009006DA981 /* PBXTargetDependency */,
+			);
+			name = "vikasitha's watchTests";
+			productName = "vikasitha's watchTests";
+			productReference = 6EED8B68289C0009006DA981 /* vikasitha's watchTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6EED8B71289C0009006DA981 /* vikasitha's watchUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BC3289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watchUITests" */;
+			buildPhases = (
+				6EED8B6E289C0009006DA981 /* Sources */,
+				6EED8B6F289C0009006DA981 /* Frameworks */,
+				6EED8B70289C0009006DA981 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EED8B74289C0009006DA981 /* PBXTargetDependency */,
+			);
+			name = "vikasitha's watchUITests";
+			productName = "vikasitha's watchUITests";
+			productReference = 6EED8B72289C0009006DA981 /* vikasitha's watchUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		6EED8B7B289C0009006DA981 /* vikasitha's watch WatchKit App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BB9289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit App" */;
+			buildPhases = (
+				6EED8B7A289C0009006DA981 /* Resources */,
+				6EED8BB8289C000B006DA981 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EED8B8A289C000A006DA981 /* PBXTargetDependency */,
+			);
+			name = "vikasitha's watch WatchKit App";
+			productName = "vikasitha's watch WatchKit App";
+			productReference = 6EED8B7C289C0009006DA981 /* vikasitha's watch WatchKit App.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		6EED8B86289C000A006DA981 /* vikasitha's watch WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BB5289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit Extension" */;
+			buildPhases = (
+				6EED8B83289C000A006DA981 /* Sources */,
+				6EED8B84289C000A006DA981 /* Frameworks */,
+				6EED8B85289C000A006DA981 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "vikasitha's watch WatchKit Extension";
+			productName = "vikasitha's watch WatchKit Extension";
+			productReference = 6EED8B87289C000A006DA981 /* vikasitha's watch WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
+		};
+		6EED8BA0289C000B006DA981 /* vikasitha's watch WatchKit AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BC6289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit AppTests" */;
+			buildPhases = (
+				6EED8B9D289C000B006DA981 /* Sources */,
+				6EED8B9E289C000B006DA981 /* Frameworks */,
+				6EED8B9F289C000B006DA981 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EED8BA3289C000B006DA981 /* PBXTargetDependency */,
+			);
+			name = "vikasitha's watch WatchKit AppTests";
+			productName = "vikasitha's watch WatchKit AppTests";
+			productReference = 6EED8BA1289C000B006DA981 /* vikasitha's watch WatchKit AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6EED8BAA289C000B006DA981 /* vikasitha's watch WatchKit AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EED8BC9289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit AppUITests" */;
+			buildPhases = (
+				6EED8BA7289C000B006DA981 /* Sources */,
+				6EED8BA8289C000B006DA981 /* Frameworks */,
+				6EED8BA9289C000B006DA981 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EED8BAD289C000B006DA981 /* PBXTargetDependency */,
+			);
+			name = "vikasitha's watch WatchKit AppUITests";
+			productName = "vikasitha's watch WatchKit AppUITests";
+			productReference = 6EED8BAB289C000B006DA981 /* vikasitha's watch WatchKit AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6EED8B50289C0006006DA981 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					6EED8B57289C0007006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					6EED8B67289C0009006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 6EED8B57289C0007006DA981;
+					};
+					6EED8B71289C0009006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 6EED8B57289C0007006DA981;
+					};
+					6EED8B7B289C0009006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					6EED8B86289C000A006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					6EED8BA0289C000B006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 6EED8B86289C000A006DA981;
+					};
+					6EED8BAA289C000B006DA981 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 6EED8B7B289C0009006DA981;
+					};
+				};
+			};
+			buildConfigurationList = 6EED8B53289C0006006DA981 /* Build configuration list for PBXProject "vikasitha's watch" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6EED8B4F289C0006006DA981;
+			productRefGroup = 6EED8B59289C0007006DA981 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6EED8B57289C0007006DA981 /* vikasitha's watch */,
+				6EED8B67289C0009006DA981 /* vikasitha's watchTests */,
+				6EED8B71289C0009006DA981 /* vikasitha's watchUITests */,
+				6EED8B7B289C0009006DA981 /* vikasitha's watch WatchKit App */,
+				6EED8B86289C000A006DA981 /* vikasitha's watch WatchKit Extension */,
+				6EED8BA0289C000B006DA981 /* vikasitha's watch WatchKit AppTests */,
+				6EED8BAA289C000B006DA981 /* vikasitha's watch WatchKit AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6EED8B56289C0007006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B63289C0009006DA981 /* Preview Assets.xcassets in Resources */,
+				6EED8B60289C0009006DA981 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B66289C0009006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B70289C0009006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B7A289C0009006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B82289C000A006DA981 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B85289C000A006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B9A289C000B006DA981 /* Preview Assets.xcassets in Resources */,
+				6EED8B97289C000B006DA981 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B9F289C000B006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8BA9289C000B006DA981 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6EED8B54289C0007006DA981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B5E289C0007006DA981 /* ContentView.swift in Sources */,
+				6EED8B5C289C0007006DA981 /* vikasitha_s_watchApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B64289C0009006DA981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B6D289C0009006DA981 /* vikasitha_s_watchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B6E289C0009006DA981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B77289C0009006DA981 /* vikasitha_s_watchUITests.swift in Sources */,
+				6EED8B79289C0009006DA981 /* vikasitha_s_watchUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B83289C000A006DA981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8B91289C000A006DA981 /* NotificationController.swift in Sources */,
+				6EED8B8F289C000A006DA981 /* ContentView.swift in Sources */,
+				6EED8B95289C000A006DA981 /* ComplicationController.swift in Sources */,
+				6EED8B8D289C000A006DA981 /* vikasitha_s_watchApp.swift in Sources */,
+				6EED8B93289C000A006DA981 /* NotificationView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8B9D289C000B006DA981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8BA6289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EED8BA7289C000B006DA981 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EED8BB2289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITestsLaunchTests.swift in Sources */,
+				6EED8BB0289C000B006DA981 /* vikasitha_s_watch_WatchKit_AppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6EED8B6A289C0009006DA981 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EED8B57289C0007006DA981 /* vikasitha's watch */;
+			targetProxy = 6EED8B69289C0009006DA981 /* PBXContainerItemProxy */;
+		};
+		6EED8B74289C0009006DA981 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EED8B57289C0007006DA981 /* vikasitha's watch */;
+			targetProxy = 6EED8B73289C0009006DA981 /* PBXContainerItemProxy */;
+		};
+		6EED8B7F289C0009006DA981 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EED8B7B289C0009006DA981 /* vikasitha's watch WatchKit App */;
+			targetProxy = 6EED8B7E289C0009006DA981 /* PBXContainerItemProxy */;
+		};
+		6EED8B8A289C000A006DA981 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EED8B86289C000A006DA981 /* vikasitha's watch WatchKit Extension */;
+			targetProxy = 6EED8B89289C000A006DA981 /* PBXContainerItemProxy */;
+		};
+		6EED8BA3289C000B006DA981 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EED8B86289C000A006DA981 /* vikasitha's watch WatchKit Extension */;
+			targetProxy = 6EED8BA2289C000B006DA981 /* PBXContainerItemProxy */;
+		};
+		6EED8BAD289C000B006DA981 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EED8B7B289C0009006DA981 /* vikasitha's watch WatchKit App */;
+			targetProxy = 6EED8BAC289C000B006DA981 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6EED8BB3289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6EED8BB4289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		6EED8BB6289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"vikasitha's watch WatchKit Extension/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "vikasitha's watch WatchKit Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "vikasitha's watch WatchKit Extension";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch.watchkitapp.watchkitextension";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Debug;
+		};
+		6EED8BB7289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"vikasitha's watch WatchKit Extension/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "vikasitha's watch WatchKit Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "vikasitha's watch WatchKit Extension";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch.watchkitapp.watchkitextension";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Release;
+		};
+		6EED8BBA289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IBSC_MODULE = vikasitha_s_watch_WatchKit_Extension;
+				INFOPLIST_KEY_CFBundleDisplayName = "vikasitha's watch WatchKit App";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "vikasitha-s-watch.vikasitha-s-watch";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Debug;
+		};
+		6EED8BBB289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IBSC_MODULE = vikasitha_s_watch_WatchKit_Extension;
+				INFOPLIST_KEY_CFBundleDisplayName = "vikasitha's watch WatchKit App";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "vikasitha-s-watch.vikasitha-s-watch";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Release;
+		};
+		6EED8BBE289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"vikasitha's watch/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6EED8BBF289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"vikasitha's watch/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6EED8BC1289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watchTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/vikasitha's watch.app/vikasitha's watch";
+			};
+			name = Debug;
+		};
+		6EED8BC2289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watchTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/vikasitha's watch.app/vikasitha's watch";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6EED8BC4289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watchUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "vikasitha's watch";
+			};
+			name = Debug;
+		};
+		6EED8BC5289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watchUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "vikasitha's watch";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6EED8BC7289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch-WatchKit-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/vikasitha's watch WatchKit Extension.appex/vikasitha's watch WatchKit Extension";
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Debug;
+		};
+		6EED8BC8289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch-WatchKit-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/vikasitha's watch WatchKit Extension.appex/vikasitha's watch WatchKit Extension";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Release;
+		};
+		6EED8BCA289C000B006DA981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch-WatchKit-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "vikasitha's watch WatchKit App";
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Debug;
+		};
+		6EED8BCB289C000B006DA981 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "vikasitha-s-watch.vikasitha-s-watch-WatchKit-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "vikasitha's watch WatchKit App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6EED8B53289C0006006DA981 /* Build configuration list for PBXProject "vikasitha's watch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BB3289C000B006DA981 /* Debug */,
+				6EED8BB4289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BB5289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BB6289C000B006DA981 /* Debug */,
+				6EED8BB7289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BB9289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BBA289C000B006DA981 /* Debug */,
+				6EED8BBB289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BBD289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BBE289C000B006DA981 /* Debug */,
+				6EED8BBF289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BC0289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watchTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BC1289C000B006DA981 /* Debug */,
+				6EED8BC2289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BC3289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watchUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BC4289C000B006DA981 /* Debug */,
+				6EED8BC5289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BC6289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BC7289C000B006DA981 /* Debug */,
+				6EED8BC8289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EED8BC9289C000B006DA981 /* Build configuration list for PBXNativeTarget "vikasitha's watch WatchKit AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EED8BCA289C000B006DA981 /* Debug */,
+				6EED8BCB289C000B006DA981 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6EED8B50289C0006006DA981 /* Project object */;
+}
